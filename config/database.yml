@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: spree_store_development
+
+test:
+  adapter: postgresql
+  database: spree_store_test
